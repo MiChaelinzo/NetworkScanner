@@ -6,5 +6,7 @@ Once you have identified open ports, you can further investigate the risks assoc
 
 
 
+![1611208237271 (1)](https://user-images.githubusercontent.com/68110223/207383826-0c26ae65-b371-4960-99a5-2cbdc90696af.png)
+
 
 
